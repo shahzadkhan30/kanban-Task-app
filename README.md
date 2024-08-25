@@ -26,7 +26,7 @@ Kanban Daily Task App is a task management application designed to help you orga
 
 ## Screenshots
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://drive.google.com/file/d/1jiKWphJs_VpCAjTNYqVmCytoysMLg23q/view?usp=sharing" alt="Kanban Daily Task App Screenshot 1" width="300"/>
+    <img src="https://drive.google.com/drive/folders/1cJmNkQaZ4MFcdILNv5E9Q2uSdDvP04bK" width="300"/>
     <img src="https://drive.google.com/file/d/1ONGFybrq6BoWqfxndvPa_xdWHehWqppR/view?usp=sharing" alt="Kanban Daily Task App Screenshot 2" width="300"/>
     <img src="https://drive.google.com/file/d/1q60FMmGJpKgZIZmRit8jbj0FvSE-ufFu/view?usp=sharing" alt="Kanban Daily Task App Screenshot 3" width="300"/>
     <img src="https://drive.google.com/file/d/1pNBIIp3qeozb6p0sQYrqf1Q9dshoKszH/view?usp=sharing" alt="Kanban Daily Task App Screenshot 3" width="300"/>
@@ -39,7 +39,7 @@ Kanban Daily Task App is a task management application designed to help you orga
 ## Video Demo
 Watch the video demo of the Kanban Daily Task App:
 
-[![Kanban Daily Task App Demo](https://drive.google.com/file/d/1jiKWphJs_VpCAjTNYqVmCytoysMLg23q/view?usp=sharing)](https://drive.google.com/file/d/1cSS4-nO1I0sVeYlPp2-CD9QoNtTdJUyR/view?usp=sharing)
+[![Kanban Daily Task App Demo](https://drive.google.com/file/d/1jiKWphJs_VpCAjTNYqVmCytoysMLg23q/view?usp=sharing)](https://drive.google.com/drive/folders/1zUmw9W1iuCHrm4urPc_xvLbpjH7PB7gB)
 
 ## Download APK
 You can download the APK from the following link:
