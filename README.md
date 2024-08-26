@@ -26,14 +26,14 @@ Kanban Daily Task App is a task management application designed to help you orga
 
 ## Screenshots
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://drive.google.com/drive/folders/1cJmNkQaZ4MFcdILNv5E9Q2uSdDvP04bK" width="300"/>
-    <img src="https://drive.google.com/file/d/1ONGFybrq6BoWqfxndvPa_xdWHehWqppR/view?usp=sharing" alt="Kanban Daily Task App Screenshot 2" width="300"/>
-    <img src="https://drive.google.com/file/d/1q60FMmGJpKgZIZmRit8jbj0FvSE-ufFu/view?usp=sharing" alt="Kanban Daily Task App Screenshot 3" width="300"/>
-    <img src="https://drive.google.com/file/d/1pNBIIp3qeozb6p0sQYrqf1Q9dshoKszH/view?usp=sharing" alt="Kanban Daily Task App Screenshot 3" width="300"/>
-    <img src="https://drive.google.com/file/d/1WlpKth9I3NKTC5B0gfAEjx-JpEPm0ww-/view?usp=sharing" alt="Kanban Daily Task App Screenshot 3" width="300"/>
-    <img src="https://drive.google.com/file/d/15egRlXpnoyHOC4kLs5ojJVvIGi6vBS3K/view?usp=sharing" alt="Kanban Daily Task App Screenshot 3" width="300"/>
-    <img src="https://drive.google.com/file/d/1i1x9mgQOlPBhXm73-fwT1y_8gYVwNRQr/view?usp=sharing" alt="Kanban Daily Task App Screenshot 3" width="300"/>
-    <img src="https://drive.google.com/file/d/1uUIkZgkE3IuJHL0D7nsCLnAQux-Wydwg/view?usp=sharing" alt="Kanban Daily Task App Screenshot 3" width="300"/>
+    <img src="https://raw.githubusercontent.com/shahzadkhan30/kanban-Task-app/main/demo_data/screenshots/bording1.jpg"  alt="Kanban Daily Task App Screenshot 1" width="300"/>
+    <img src="https://raw.githubusercontent.com/shahzadkhan30/kanban-Task-app/main/demo_data/screenshots/bording2.jpg" alt="Kanban Daily Task App Screenshot 2" width="300"/>
+    <img src="https://raw.githubusercontent.com/shahzadkhan30/kanban-Task-app/main/demo_data/screenshots/bording3.jpg" alt="Kanban Daily Task App Screenshot 3" width="300"/>
+    <img src="https://raw.githubusercontent.com/shahzadkhan30/kanban-Task-app/main/demo_data/screenshots/4.jpg" alt="Kanban Daily Task App Screenshot 4" width="300"/>
+    <img src="https://raw.githubusercontent.com/shahzadkhan30/kanban-Task-app/main/demo_data/screenshots/5.jpg" alt="Kanban Daily Task App Screenshot 5" width="300"/>
+    <img src="https://raw.githubusercontent.com/shahzadkhan30/kanban-Task-app/main/demo_data/screenshots/6.jpg" alt="Kanban Daily Task App Screenshot 6" width="300"/>
+    <img src="https://raw.githubusercontent.com/shahzadkhan30/kanban-Task-app/main/demo_data/screenshots/7.jpg" alt="Kanban Daily Task App Screenshot 3" width="300"/>
+    <img src="https://raw.githubusercontent.com/shahzadkhan30/kanban-Task-app/main/demo_data/screenshots/8.jpg" alt="Kanban Daily Task App Screenshot 3" width="300"/>
 </div>
 
 ## Video Demo
